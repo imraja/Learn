@@ -1,2 +1,2 @@
 # Learn
-All code files related to HTML, CSS and etc 
+Code snippets related to ASP.Net, HTML, CSS, Javascript and other languages which help us to code better
